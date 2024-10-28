@@ -1,0 +1,3 @@
+# Ecommerce Project Frontend
+
+This project is a frontend for an eCommerce website developed with CodeIgniter 4, designed to provide an engaging and user-friendly shopping experience. Customers can browse product listings, add items to their cart, manage a wishlist, and proceed to checkout to complete purchases. The frontend is optimized for easy navigation, offering a responsive layout that adapts well to various devices. Leveraging CodeIgniter’s MVC framework, this application ensures a smooth integration with backend services, enabling efficient data handling and a seamless user experience. The design focuses on accessibility and simplicity, making online shopping intuitive for all users.
